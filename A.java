@@ -1,7 +1,7 @@
 public Class A() {
     int a = 20;
-    String str = "메인변경한 변수";
-
+    String str = "컨플릭트1에서 변경";
+git
     public void method1(){
 
     }
